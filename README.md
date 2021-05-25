@@ -1,3 +1,3 @@
-Laboratório de Programação 2
-UFCG - 2020.0
-Labs da disciplina
+Laboratório de Programação 2 \n
+UFCG - 2020.0 \n
+Labs da disciplina \n
