@@ -4,7 +4,7 @@ package lab2;
  * Ele controla todas as ações que são feitas em COISA, guarda
  * e altera todos os objetos do sistema.
  * 
- * @author Gustavo Araujo Santos - 119210741
+ * @author Gustavo A. Santos - 119210741
  */
 public class Aluno {
 	/**
